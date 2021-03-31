@@ -2,9 +2,11 @@
 
 I'm a German student with a focus on computer science.
 
+
 🚧 My Projects:
 
   - [Viridian](https://github.com/Viridian-Studios)
+
 
 
 💬 Contact me:
