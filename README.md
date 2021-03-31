@@ -1,3 +1,13 @@
-Hello there, it's me again.
+### Hi there!
 
-I like Java. And cats.
+I'm a German student with a focus on computer science.
+
+🚧 My Projects:
+
+   - [Viridian](https://github.com/Viridian-Studios)
+
+
+💬 Contact me:
+
+    **Via Discord**: `Tom Joshy#3368`
+    **Via e-mai**l: In my profile.
