@@ -3,7 +3,7 @@
 I'm a German student with a focus on computer science.
 
 
-🚧 My Projects:
+🚧 Current projects I'm working on:
 
   - [Viridian](https://github.com/Viridian-Studios)
 
