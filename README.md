@@ -11,5 +11,5 @@ I'm a German student with a focus on computer science.
 
 💬 Contact me:
 
-  - **Via Discord**: `Tom Joshy#3368`
+  - **Via Discord**: `Tom Joshy#9999`
   - **Via e-mail**: In my profile.
