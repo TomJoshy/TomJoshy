@@ -5,7 +5,7 @@ I'm a German student with a focus on computer science.
 
 🚧 Current projects I'm working on:
 
-  - [Viridian](https://github.com/Viridian-Studios)
+  - [NONE](https://github.com/NONE)
 
 
 
