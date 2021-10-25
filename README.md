@@ -7,7 +7,10 @@ I'm a German student focussing on computer science.
 
   - [NONE](https://github.com/NONE)
 
-
+⚙️ Languages I'm using:
+  - Java
+  - C#
+  - Python
 
 💬 Contact me:
 
