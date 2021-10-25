@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm a German student with a focus on computer science.
+I'm a German student focussing on computer science.
 
 
 🚧 Current projects I'm working on:
